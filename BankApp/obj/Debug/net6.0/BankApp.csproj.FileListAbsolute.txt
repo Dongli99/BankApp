@@ -1,0 +1,15 @@
+D:\Class\Prg2\w9\Bank\BankApp\bin\Debug\net6.0\BankApp.exe
+D:\Class\Prg2\w9\Bank\BankApp\bin\Debug\net6.0\BankApp.deps.json
+D:\Class\Prg2\w9\Bank\BankApp\bin\Debug\net6.0\BankApp.runtimeconfig.json
+D:\Class\Prg2\w9\Bank\BankApp\bin\Debug\net6.0\BankApp.dll
+D:\Class\Prg2\w9\Bank\BankApp\bin\Debug\net6.0\BankApp.pdb
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.csproj.AssemblyReference.cache
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfoInputs.cache
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfo.cs
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.csproj.CoreCompileInputs.cache
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.dll
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\refint\BankApp.dll
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.pdb
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\BankApp.genruntimeconfig.cache
+D:\Class\Prg2\w9\Bank\BankApp\obj\Debug\net6.0\ref\BankApp.dll
